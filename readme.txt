@@ -35,10 +35,10 @@ http://kentothemes.com/documentation/
 
 == Screenshots ==
 
-1. Style 1
-2. Style 2
-3. Style 3
-4. Admin Panel
+1. screenshot1.png
+2. screenshot2.png
+3. screenshot3.png
+4. screenshot4.png
 
 == Changelog ==
 
