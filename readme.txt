@@ -38,7 +38,7 @@ http://kentothemes.com/documentation/
 1. screenshot1.png
 2. screenshot2.png
 3. screenshot3.png
-4. screenshot4.png
+4. admin-panel-screenshot.png
 
 == Changelog ==
 
