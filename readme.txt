@@ -34,7 +34,9 @@ http://kentothemes.com/documentation/
 
 
 == Screenshots ==
-
+1. admin panel
+2. website preview
+2. website preview1
 
 == Changelog ==
 
