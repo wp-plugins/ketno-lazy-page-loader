@@ -36,9 +36,11 @@ http://kentothemes.com/documentation/
 == Screenshots ==
 1. admin panel
 2. website preview
-2. website preview1
+2. website
 
 == Changelog ==
+= 1.1 =
+* fix bugs
 
 = 1.0 =
 * Initial release
